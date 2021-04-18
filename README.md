@@ -28,8 +28,9 @@ In a text editor, type:
 println "Hello World!"
 ```
 
-Next here is some simple arithmetic. 
+That's it. Next let's do some simple arithmetic. 
 
 ```v
-add sum 1 2
++ sum 1 2
 ```
+Whats going on here is that the first word of every statement (+) is a function keyword, and the words coming after are it's arguments. By typing more than one statement in a sequence, we can code in a sequential style. This makes reading code much easier. The (+) function keyword has three parameters. The first is a variable that can store a value. The last 2 parameters are integers to be added together. Once the integers are added together, the resulting value is stored in the (sum) variable.
