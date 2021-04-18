@@ -26,7 +26,6 @@ In a text editor, type:
 
 ```v
 println "Hello World!"
-}
 ```
 
 
