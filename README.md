@@ -17,3 +17,16 @@ From your terminal, change directory to your .su file.
 Enter the command: sugi <filename of .su file>.
 The program should execute.
 A rust file and executable file will be generated in the same directory.
+
+# Tutorial
+
+Lets create a hello world program.
+
+In a text editor, type: 
+
+```v
+println "Hello World!"
+}
+```
+
+
