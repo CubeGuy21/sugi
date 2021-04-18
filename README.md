@@ -28,4 +28,8 @@ In a text editor, type:
 println "Hello World!"
 ```
 
-Next lets do some simple arithmetic. 
+Next here is some simple arithmetic. 
+
+```v
+add sum 1 2
+```
