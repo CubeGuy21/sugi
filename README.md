@@ -10,7 +10,7 @@ In your home directory, show hidden files and open the file .bashrc.
 Type: export PATH="$HOME/bin:$PATH" into .bashrc and save.
 Move the sugi binary file into the newly created bin folder.
 Left click the sugi binary file and click properties.
-CLick the permissions tab and select "is executable".
+Click the permissions tab and select "is executable".
 
 # How to use the program
 From your terminal, change directory to your .su file.
